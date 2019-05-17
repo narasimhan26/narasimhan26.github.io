@@ -95,11 +95,11 @@ p{
     padding: 10%;
     width: 100%;
 }
-span{
+/* span{
     font-family: "Font Awesome 5 Brands";
     src: url('../font/fa-brands-400.ttf');
     font-weight: 700;
-}
+} */
 #section4{
     background: rgb(204, 84, 84);
     width: 100%;
