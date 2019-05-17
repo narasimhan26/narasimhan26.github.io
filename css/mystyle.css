@@ -1,3 +1,19 @@
+@font-face
+{
+font-family: "Raleway";
+src: url('../font/Raleway-Medium.ttf');
+}
+/* @font-face
+{
+font-family: "Font Awesome 5 Brands";
+src: url('../font/fa-brands-400.ttf');
+} */
+@font-face
+{
+font-family: "Lato";
+src: url('../font/Lato-Regular.ttf');
+}
+
 body{
     position: relative; 
     }
@@ -81,6 +97,7 @@ p{
 }
 span{
     font-family: "Font Awesome 5 Brands";
+    src: url('../font/fa-brands-400.ttf');
     font-weight: 700;
 }
 #section4{
@@ -121,7 +138,3 @@ a, a:hover{
     height: 100px;
     line-height: 100px;
 }
-/* .brandIcon{
-    align-content: center;
-    text-align: center;
-} */
